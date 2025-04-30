@@ -42,9 +42,13 @@ MAX_RETRIES – how many times a failed request is retried
 Simply run:
 
 bash
+------
 Copy
+----
 Edit
+----
 python warp_script.py
+-
 The script will continuously:
 
 Generate random device data
